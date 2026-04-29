@@ -1,3 +1,3 @@
 ## Hi there 👋
 ### Socials:
-* discord: _cubek
+* discord: .cubekii

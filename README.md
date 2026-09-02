@@ -1,5 +1,7 @@
 # Hi there, i'm Cubekii
-![stats](https://github-contribution-stats.vercel.app/api/?username=cubekii&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Cubekii&show_icons=true&theme=github_dark)
+
+![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Cubekii&show_icons=true&theme=github_dark)
 ## Skills:
 <img src="https://skillicons.dev/icons?i=docker,ansible,githubactions,cpp,cmake,go,py" />
 
